@@ -24,6 +24,9 @@ gem 'bcrypt', '~> 3.1.7'
 # Security = Devise
 gem 'devise'
 
+# Custom gems
+gem 'bootstrap', '~> 4.5.2'
+gem 'simple_form'
 gem 'activerecord-session_store'
 
 # Use Active Storage variant
