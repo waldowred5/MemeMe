@@ -25,7 +25,8 @@ ERD:
 - Password
 - Captcha
 - First Name
-- Last Name
+
+<img src="app/assets/images/mememe-erd.png" alt="MemeMe ERD">
 
 
 Memes
